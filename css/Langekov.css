@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{
+	magin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* Container som holder billede og tekst*/
+.container{
+	position: relative;
+	test-align: center;
+	Color: black;
+	
+}
+
+/*krammermarked*/
+.krammer{
+	position: absolute;
+	top: 305px;
+	right: 390px;
+}
+
+/*borgerforening*/
+.borger{
+	position: absolute;
+	top: 305px;
+	left: 380px;
+}
